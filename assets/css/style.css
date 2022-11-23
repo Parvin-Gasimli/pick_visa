@@ -1,0 +1,13 @@
+.select,
+.select select {
+  width: 100%;
+}
+
+.card {
+  width: 500px;
+  margin: 40px auto;
+}
+
+button{
+  width: 100%;
+}
